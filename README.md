@@ -25,11 +25,11 @@ In order to get the development environment running the follwing tools need to b
 
 
 
-Connect to online developer communities such as
-* [Stack Overflow:](https://https://stackoverflow.com/)
-* [Dev To:](https://https://https://dev.to/)
-* [Medium:](https://medium.com/)
-* [Dev social media list:](https://coding-boot-camp.github.io/full-stack/web-development/developer-resources)
+To develop a growth mindset and stay up to date on all dev news and apps, connect to online developer communities such as
+* [Stack Overflow](https://stackoverflow.com/)
+* [Dev To](https://dev.to/)
+* [Medium](https://medium.com/)
+* [Dev social media list](https://coding-boot-camp.github.io/full-stack/web-development/developer-resources)
 
 
  To arrange tutoring while working through prework, follow these steps:
@@ -70,7 +70,7 @@ The web application holds four sections. Each section contains notes about HTML,
 
 For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. 
 
-    ```
+  
  ```md
 ![alt text](assets/Screenshot 2023-01-17 at 10.52.42 PM.png)
 ```
