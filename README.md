@@ -70,10 +70,7 @@ The web application holds four sections. Each section contains notes about HTML,
 
 For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. 
 
-  
- ```md
-![alt text](assets/Screenshot 2023-01-17 at 10.52.42 PM.png)
-```
+
 
 ## Credits
 
